@@ -4,7 +4,7 @@ Private Repository for HW assignments of Stat 133 (Spring 2019)
 
 - Name: Mingyue Yang
 - Github username: mingyueyang
-- Email: address mingyueyang[at] berkeley.edu
+- Email: mingyueyang[at] berkeley.edu
 - Lab section: 102
 - GSI: Dodo Qian
 
