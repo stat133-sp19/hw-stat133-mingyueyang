@@ -1,0 +1,88 @@
+---
+title: "warmup01-mingyue-yang"
+author: "Mingyue Yang"
+date: "2019Äê2ÔÂ2ÈÕ"
+output: github_document
+---
+
+# **Star Wars**
+## [*Tamara Ryvora*](https://starwars.fandom.com/wiki/Tamara_Ryvora)
+
+![](https://vignette.wikia.nocookie.net/starwars/images/5/55/Tam_Resistance.png/revision/latest?cb=20190101033429)
+
+
+
+**Her quote:**
+
+> It's good to go.
+
+
+Description | Value
+------------ | -------------
+Species | Human
+Gender | Female
+Hair Color | Black
+Eye Color | Brown
+Skin Color | Dark
+
+
+# **Cooking Recipe**
+## [*Carrot Soup with Miso and Sesame*](https://smittenkitchen.com/2012/01/carrot-soup-with-miso-and-sesame/)
+
+#### **Ingredients**
+
+- 2 tablespoons olive oil
+- 2 pounds carrots, peeled, thinly sliced
+- 1 large onion, finely chopped
+- 4 regular or 6 small garlic cloves, peeled and smashed
+- 1 tablespoon finely chopped or grated ginger, or more to taste (it could easily be doubled)
+- 4 cups vegetable broth
+- 1/4 cup white miso paste, or more to taste
+- Drizzle of toasted sesame oil
+- 2 scallions, very thinly sliced
+
+#### **Kitchen Tools**
+- Large saucepan
+- Blender
+- Pot
+- Ladle
+
+#### **Steps**
+1. Heat oil in heavy large saucepan over medium heat.\
+Add carrots, onion and garlic saut¨¦ until onion is translucent, about 10 minutes.\
+Add broth and ginger.\
+Cover and simmer until carrots are tender when pierced, stirring occasionally, about 30 minutes.
+
+2. Puree soup in batches in blender, or all at once with an immersion blender.\
+In a small bowl, whisk together the miso an a half-cup of the soup.\
+Stir the mixture back into the pot of soup.\
+Taste the soup and season with salt, pepper or additional miso to taste.
+
+3. Ladle into bowls and garnish each with a drizzle of sesame oil and small mound of scallions.
+
+![](https://keeprecipes.com/sites/keeprecipes/files/imagecache/recipe_large/8457_1325633734_0.jpg)
+
+
+#### **Notes**
+- No special season of the year for it.
+- **Pickled scallions?** I didn¡¯t do this in the end, but was tempted to lightly pickled the scallions by letting them hang out in a mixture of 6 tablespoons rice vinegar, 2 tablespoons water, 1 tablespoon of Kosher salt (I use Diamond brand, use less if you¡¯re using Morton or another, which are more dense) and 1 1/2 teaspoons sugar for a while before using them as garnish.
+
+
+
+# **Euclidean Distance**
+## *Definition*
+
+The Euclidean distance between points p and q is the length of the line segment connecting them \bar{pq}
+
+In Cartesian coordinates, if p = (p1, p2,..., pn) and q = (q1, q2,..., qn) are two points in Euclidean n-space, then the distance (d) from p to q, or from q to p is given by the Pythagorean formula:
+$$
+d(p,q)=d(q,p)= \sqrt{(q_1-p_1)^2+(q_2-p_2)^2+\dotsb+(q_n-p_n)^2}= \sqrt{\sum_{i=1}^{n} (q_i-p_i)^2}
+$$
+
+The position of a point in a Euclidean n-space is a Euclidean vector. So, p and q may be represented as Euclidean vectors, starting from the origin of the space (initial point) with their tips (terminal points) ending at the two points. The Euclidean norm, or Euclidean length, or magnitude of a vector measures the length of the vector:
+
+$$
+ \| p \|=\sqrt{(p_1)^2+(p_2)^2+\dotsb+(p_n)^2}=\sqrt{p \cdot p}
+$$
+
+where the last expression involves the dot product.
