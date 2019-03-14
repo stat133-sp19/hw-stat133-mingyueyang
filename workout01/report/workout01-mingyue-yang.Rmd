@@ -80,8 +80,9 @@ three_point$total <- three_point$shot_made_flag == "shot_yes"|three_point$shot_m
 table3 <- three_point %>% group_by(name) %>% summarise(total_shots = sum(total),made_shots=sum(shots_y), perc_made = (made_shots/total_shots)*100) %>% arrange(desc(perc_made))
 table3
 ```
+
 Stephen Curry is well known for his wonderful skill of 3PT shooting. From the table, we can tell that Curry has the highest number of total 3PT shots, which exceeds 650! Curry's hit rate is also really high,approximately 40.8%. Klay Thompson has made 580 shots and has the highest effective shooting rate of 3PT field goal among the selected five stars.Kevin Durant, Andre Iguodala, and Draymond Green are less outstanding in 3PT shooting than Curry and Thompson, but still with an effective shooting rate higher than 30% respectively.
-\
+
 ```{r out.width='80%',echo=FALSE, fig.align='center'}
 
 knitr::include_graphics('../images/image4.jpg')

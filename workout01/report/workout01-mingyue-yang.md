@@ -93,6 +93,7 @@ table3
     ## 5 Draymond Green         232         74      31.9
 
 Stephen Curry is well known for his wonderful skill of 3PT shooting. From the table, we can tell that Curry has the highest number of total 3PT shots, which exceeds 650! Curry's hit rate is also really high,approximately 40.8%. Klay Thompson has made 580 shots and has the highest effective shooting rate of 3PT field goal among the selected five stars.Kevin Durant, Andre Iguodala, and Draymond Green are less outstanding in 3PT shooting than Curry and Thompson, but still with an effective shooting rate higher than 30% respectively.
+
 <img src="../images/image4.jpg" width="80%" style="display: block; margin: auto;" />
 
 **Effective Shooting % by Player: Overall (i.e. including 2PT and 3PT Field Goals) effective shooting percentage by player, arranged in descending order by percentage**
