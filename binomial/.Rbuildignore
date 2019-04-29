@@ -1,0 +1,8 @@
+^Meta$
+^doc$
+^.*\.Rproj$
+^\.Rproj\.user$
+^README.md
+^README-example-2.png
+^README-example-1.png
+^devtools-flow.R
