@@ -3,7 +3,7 @@
 Overview
 --------
 
-'"binomial"' is an [R](http://www.r-project.org/) pacakge that provides functions for calculating probabilities of a binomial random variable, and related calcualtions such as the probability distribution, the expected value, variance, etc.
+'"binomial"' is an [R](http://www.r-project.org/) package that provides functions for calculating probabilities of a binomial random variable, and related calcualtions such as the probability distribution, the expected value, variance, etc.
 
 Motivation
 ----------
