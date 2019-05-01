@@ -17,12 +17,12 @@ knitr::opts_chunk$set(
 
 ## Overview
 
-'"binomial"' is an [R](http://www.r-project.org/) pacakge that providess functions for calculating probabilities of a binomial random variable, and related calcualtions such as the probability distribution, the expected value, variance, etc.
+`"binomial"` is an [R](http://www.r-project.org/) package that provides functions for calculating probabilities of a binomial random variable, and related calcualtions such as the probability distribution, the expected value, variance, etc.
 
 
 ## Motivation 
 
-This package had been developed to help the author get in touched with building R packages and provide tools for calculating probabilties of binomial random variables.
+This package has been developed to help the author get in touched with building R packages and provide tools for calculating probabilties of binomial random variables.
 
 
 ## Installation
@@ -31,7 +31,7 @@ Install the development version from GitHub via the package `"devtools"`:
 
 ``` r
 # development version from GitHub:
-#install.packages("devtools") 
+install.packages("devtools") 
 
 # install "binomial" (without vignettes)
 devtools::install_github("stat133-sp19/hw-stat133-mingyueyang/binomial")
@@ -44,6 +44,7 @@ devtools::install_github("stat133-sp19/hw-stat133-mingyueyang/binomial", build_v
 
 ```{r example}
 library(binomial)
+
 ## some examples
 # binomial probability of getting 2 successes in 5 trials,assuming prob of success = 0.5
 bin_probability(success = 2, trials = 5, prob = 0.5)
