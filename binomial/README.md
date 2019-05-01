@@ -17,7 +17,7 @@ Install the development version from GitHub via the package `"devtools"`:
 
 ``` r
 # development version from GitHub:
-#install.packages("devtools") 
+install.packages("devtools") 
 
 # install "binomial" (without vignettes)
 devtools::install_github("stat133-sp19/hw-stat133-mingyueyang/binomial")
