@@ -102,6 +102,8 @@ binsum1
 #> - kurtosis: -0.1238095
 
 # functions of measures
+bin_mean(10,0.3)
+#> [1] 3
 bin_variance(10, 0.3)
 #> [1] 2.1
 bin_mode(10, 0.3)
